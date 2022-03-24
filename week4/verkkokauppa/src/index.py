@@ -3,6 +3,8 @@ from kirjanpito import kirjanpito
 
 
 def main():
+    
+    print("hello world!")
     kauppa = Kauppa()
 
     # kauppa hoitaa yhden asiakkaan kerrallaan seuraavaan tapaan:
