@@ -1,2 +1,2 @@
-  def summa(x, y):
+def summa(x, y):
     return x+y
