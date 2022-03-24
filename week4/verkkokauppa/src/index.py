@@ -28,6 +28,7 @@ def main():
         print(tapahtuma)
 
     print("This is finally over!")
+    print("Oh, there really was more")
 
 if __name__ == "__main__":
     main()
