@@ -27,6 +27,7 @@ def main():
     for tapahtuma in kirjanpito.tapahtumat:
         print(tapahtuma)
 
+    print("This is finally over!")
 
 if __name__ == "__main__":
     main()
