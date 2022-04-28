@@ -27,4 +27,5 @@ class Kumoa:
         self._sovelluslogiikka = sovelluslogiikka
         
     def suorita(self):
+        self._sovelluslogiikka.kumoa()
         return self._sovelluslogiikka.tulos
